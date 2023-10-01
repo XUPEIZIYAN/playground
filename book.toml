@@ -1,0 +1,16 @@
+[book]
+authors = ["XUPEI"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Playground"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[preprocessor.katex]
+after = ["links"]
+
+[preprocessor.toc]
+marker = "[TOC]"

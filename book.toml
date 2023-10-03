@@ -8,6 +8,7 @@ title = "XUPEI's Playground"
 [output.html.fold]
 enable = true
 level = 1
+no-section-label = true
 
 [preprocessor.katex]
 after = ["links"]

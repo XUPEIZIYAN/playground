@@ -38,7 +38,9 @@
     - [上海滨江漫谈](./essay/2022/20220626-shanghaibinjiang.md)
     - [一条变化的脉络](./essay/2022/20220528-yitiao.md)
     - [一个半月](./essay/2022/20220515-yigebanyue.md)
-    - [身在其中（3）](./essay/2022/20220327-shenzaiqizhong1.md)
+    - [身在其中（3）](./essay/2022/20220502-shenzaiqizhong3.md)
+    - [身在其中（2）](./essay/2022/20220409-shenzaiqizhong2.md)
+    - [身在其中（1）](./essay/2022/20220327-shenzaiqizhong1.md)
     - [春夜杂记](./essay/2022/20220313-chunye.md)
     - [2022新年寄语](./essay/2022/20220129-xinnianjiyu.md)
     

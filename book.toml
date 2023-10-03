@@ -3,7 +3,7 @@ authors = ["XUPEI"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Playground"
+title = "XUPEI's Playground"
 
 [output.html.fold]
 enable = true

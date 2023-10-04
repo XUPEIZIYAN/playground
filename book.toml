@@ -8,9 +8,10 @@ title = "XUPEI's Playground"
 [output.html]
 no-section-label = true
 mathjax-support = true
+additional-css = ["./mdbook-admonish.css"]
 theme = "theme"
 default-theme = "light"
-preferred-dark-theme = "ayu"
+
 
 
 [output.html.fold]

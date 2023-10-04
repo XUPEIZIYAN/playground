@@ -6,13 +6,16 @@ src = "src"
 title = "XUPEI's Playground"
 
 [output.html]
-additional-css = ["./mdbook-admonish.css"]
 no-section-label = true
+mathjax-support = true
+theme = "theme"
+default-theme = "light"
+preferred-dark-theme = "ayu"
+
 
 [output.html.fold]
 enable = true
 level = 0
-
 
 [preprocessor.katex]
 after = ["links"]

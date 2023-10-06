@@ -188,3 +188,6 @@
     - [一则童话](./essay/2016/20160129-yize.md)
     - [雨生](./essay/2016/20160101-yusheng.md)
 
+- [汇编文集](./essay/wenjilist.md)
+
+

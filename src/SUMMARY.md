@@ -7,6 +7,7 @@
 # 读书笔记
 
 - [读书](./reading/reading.md)
+    - [混乱](./reading/20221204-hunluan.md)
     - [当我谈跑步时，我在谈什么](./reading/20220619-dangwo.md)
     - [《那不勒斯四部曲》](./reading/20211123-xinmingzi.md)
     - [《牧羊少年的奇幻之旅》&《朝圣》](./reading/20210505-maoxian.md)
@@ -113,6 +114,8 @@
     - [阳台](./essay/2023/20230430-阳台.md)
     - [《魔戒》即在手中](./essay/2023/20230528-《魔戒》即在手中.md)
 
+    - [微环境](./essay/2022/20221210-weihuanjing.md) 
+    - [具体地去生活](./essay/2022/20221112-juti.md)
     - [无法拒绝的不方便](./essay/2022/20220814-wufa.md)
     - [被错过的另一条路](./essay/2022/20220807-beicuoguo.md)
     - [上海滨江漫谈](./essay/2022/20220626-shanghaibinjiang.md)

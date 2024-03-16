@@ -7,6 +7,7 @@
 # 随笔
 - [2022年-2024年](./essay/2022-2024list.md)
 
+    - [科幻小说，鲁迅，赛博朋克](./essay/2024/20240224-kehuan.md)
     - [年初杂记](./essay/2024/20240219-nianchu.md)
 
     - [放弃目标，专注系统](./essay/2023/20231112-fangqi.md)
@@ -124,6 +125,7 @@
    
 - [观影](./reading/movie.md)
     - [《旺达幻视》](./reading/20210307-wangda.md)
+    - [由《植物王国》引发的几点思考](./reading/20240316-zhiwuwangguo.md)
 
 
 
